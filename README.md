@@ -1,4 +1,4 @@
-![Person](https://upload.wikimedia.org/wikipedia/commons/9/90/Mask_On_Face_Detection.gif)
+![Person](https://media.tenor.com/51ZQe03NRdgAAAAC/facial-recognition-lil.gif)
 
 # _**Facial & Eye Detection Of A Person**_
 Detecting the face and eyes of a person from an image involves employing advanced computer vision techniques to analyze and interpret visual data. In this intricate process, the algorithm first identifies the presence of a face within the image by recognizing key facial features and patterns. Once the face is detected, the algorithm then focuses on locating the eyes within the facial region. The eyes are critical components as they contribute significantly to the overall identification process. Techniques like Haar cascades or landmark detection may be utilized to precisely locate the eyes based on distinctive features. These methods enable the algorithm to create bounding boxes or landmarks around the detected face and eyes, providing a visual representation of their positions within the image.
